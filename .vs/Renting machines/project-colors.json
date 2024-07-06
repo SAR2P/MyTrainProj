@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7b85872-7d1c-47e0-b44f-23e669cd7722": {
+      "ProjectGuid": "a7b85872-7d1c-47e0-b44f-23e669cd7722",
+      "DisplayName": "Renting machines",
+      "ColorIndex": 0
+    },
+    "b5e2bbba-fc27-4469-84c5-e1fbef13c8aa": {
+      "ProjectGuid": "b5e2bbba-fc27-4469-84c5-e1fbef13c8aa",
+      "DisplayName": "AppEntitys",
+      "ColorIndex": 1
+    },
+    "a0efd4c7-ec73-4da1-b098-88097058635d": {
+      "ProjectGuid": "a0efd4c7-ec73-4da1-b098-88097058635d",
+      "DisplayName": "AppEntitys",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "07227e0e-205a-42bf-b84e-fae8bee47816": {
+      "ProjectGuid": "07227e0e-205a-42bf-b84e-fae8bee47816",
+      "DisplayName": "RentMachines_DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

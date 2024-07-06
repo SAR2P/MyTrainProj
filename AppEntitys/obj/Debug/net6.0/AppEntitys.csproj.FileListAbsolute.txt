@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Renting machines\AppEntitys\bin\Debug\net6.0\AppEntitys.deps.json
+C:\Users\pc\source\repos\Renting machines\AppEntitys\bin\Debug\net6.0\AppEntitys.runtimeconfig.json
+C:\Users\pc\source\repos\Renting machines\AppEntitys\bin\Debug\net6.0\AppEntitys.dll
+C:\Users\pc\source\repos\Renting machines\AppEntitys\bin\Debug\net6.0\ref\AppEntitys.dll
+C:\Users\pc\source\repos\Renting machines\AppEntitys\bin\Debug\net6.0\AppEntitys.pdb
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.AssemblyInfo.cs
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.dll
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\ref\AppEntitys.dll
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.pdb
+C:\Users\pc\source\repos\Renting machines\AppEntitys\obj\Debug\net6.0\AppEntitys.genruntimeconfig.cache
