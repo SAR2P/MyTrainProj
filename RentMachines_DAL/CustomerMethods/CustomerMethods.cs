@@ -26,7 +26,7 @@ namespace RentMachines_DAL.CustomerMethods
 
         public List<CustomersInformationClass> ReadCustomer() 
         {
-            var q = from i in ctx.CustomerTable select i;
+            var q = (from i in ctx.CustomerTable select i).ToList();
             return q.ToList();
         
         }
