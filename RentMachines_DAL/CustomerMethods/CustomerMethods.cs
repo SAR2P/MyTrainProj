@@ -12,21 +12,21 @@ namespace RentMachines_DAL.CustomerMethods
     public class CustomerMethods
     {
 
-        ContextM ctx = new ContextM();
+        ContextM ctx1 = new ContextM();
        
 
 
 
         public void Create(CustomersInformationClass c1) 
         {
-            ctx.CustomerTable.Add(c1);
-            ctx.SaveChanges();
+            ctx1.CustomerTable.Add(c1);
+            ctx1.SaveChanges();
         
         }
 
         public List<CustomersInformationClass> ReadCustomer() 
         {
-            var q = (from i in ctx.CustomerTable select i).ToList();
+            var q = (from i in ctx1.CustomerTable select i).ToList();
             return q.ToList();
         
         }
